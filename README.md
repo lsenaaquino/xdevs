@@ -1,37 +1,54 @@
-# 💻 X-Devs
+# 🚀 X-Devs
 
-Projeto de portfólio para exibir e centralizar meus principais trabalhos e experiências na área de desenvolvimento web.
+**X-Devs** é um projeto criativo e visualmente impactante desenvolvido com HTML, CSS e JavaScript. Inspirado em um universo fictício de desenvolvedores com superpoderes e personalidades marcantes, ele combina **design futurista** com um carrossel de personagens únicos — cada um representando uma ideia ou dilema do mundo da programação.
 
-## 📌 Sobre o projeto
+![Preview do projeto](./screenshot.png)
 
-Este site foi desenvolvido com foco em apresentar meus projetos, habilidades e trajetória como desenvolvedor. Ele será atualizado frequentemente com novos projetos e melhorias.
+## 🎯 Objetivo
 
-## 🚀 Tecnologias utilizadas
+Criar uma vitrine interativa que mescla storytelling e tecnologia, destacando habilidades em front-end e criatividade. O projeto também serve como ponto de partida para futuros experimentos visuais e funcionais com JavaScript.
+
+## 🛠️ Tecnologias Utilizadas
 
 - HTML5
 - CSS3
-- JavaScript 
+- JavaScript (puro)
 - Git & GitHub Pages
 
-## 🌐 Acesse o site
+## 🧠 Personagens
 
-👉 [https://lsenaaquino.github.io/xdevs](https://lsenaaquino.github.io/xdevs)
+### 🧓 Seu Clope  
+Veterano resistente à mudança, acredita que **COBOL** é insuperável.
 
-## 📸 Imagem do projeto
+### 🦇 Vamplena  
+Júnior em busca de evolução, mas luta com o dilema de depender demais da ajuda dos outros.
 
-![preview do site](./screenshot.png)
+### 🌙 Jubiléia  
+Aprendiz noturna que **odeia temas claros** nos editores. Defensora fiel do dark mode.
 
-## 🧠 Objetivo
+### ☀️ Tempestade Solar  
+A vilã digital. Causa **falhas em redes e servidores** com explosões solares.
 
-Desenvolver uma base para meu portfólio e, futuramente, integrar novos projetos com frontend e backend.
+### 💾 Loggineto  
+Mestre dos dados. Consegue **hackear sistemas** com a mente.
 
-## 🛠️ Próximos passos
+### ☕ Professor Cafeze  
+Mentor dos X-Devs. Transmite **conhecimento diretamente para iniciantes**.
 
-- [x] Subir estrutura básica
-- [ ] Adicionar responsividade
-- [ ] Criar versão em dark mode
-- [ ] Integrar outros projetos
+## ✨ Funcionalidades
 
-## 📫 Contato
+- Carrossel de personagens
+- Design imersivo
+- Layout responsivo
 
-Lucas Sena – [linkedin.com/in/lsenaaquino](https://linkedin.com/in/lsenaaquino)
+## 🌐 Acesse o Projeto
+
+🔗 [https://lsenaaquino.github.io/xdevs](https://lsenaaquino.github.io/xdevs)
+
+## 👨‍💻 Autor
+
+**Lucas Sena**  
+📍 Rio de Janeiro – Brasil  
+🔗 [LinkedIn](https://www.linkedin.com/in/lucassenaaquino) • [GitHub](https://github.com/lsenaaquino)
+
+> Projeto criado com 💡 imaginação, ☕ café e vontade de evoluir como dev.
